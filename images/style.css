@@ -1,0 +1,68 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 40px;
+}
+section{
+    display: flex;
+}
+.color{
+    color: orangered;
+}
+.flexible-container{
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 50%;
+    
+}
+.link-btn{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+.about-us{
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.about-text{
+    text-align: center;
+    padding-right: 150px;
+}
+.recipe-text{
+    text-align: center;
+    padding: 20px 200px;
+}
+.recipe-area{
+    padding: 50px;
+    width: 100%;
+    margin: auto;
+    padding-left: 0%;
+}
+.recipe-info{
+    width: 30%;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px grey;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 5px solid white;
+    
+    
+}
+.recipe-info img{
+    width: 100%;
+}
+.text-recipe{
+    text-align: center;
+}
