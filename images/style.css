@@ -37,7 +37,7 @@ section{
 }
 .about-text{
     text-align: center;
-    padding-right: 150px;
+    padding: 10px 150px;
 }
 .recipe-text{
     text-align: center;
@@ -65,4 +65,18 @@ section{
 }
 .text-recipe{
     text-align: center;
+}
+.social-activity{
+    display: flex;
+    padding: 0px 500px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 25px grey;
+    
+}
+footer{
+    text-align: center;
+    background-color: black;
+}
+.footer-color{
+    color: grey;
 }
